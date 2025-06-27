@@ -1,6 +1,6 @@
 # Project moved
 
-This repo is no longer maintained. Please see [https://gitlab.com/AI221/spacegame/](https://gitlab.com/jackson221/spacegame/)
+This repo is no longer maintained. Please see [https://gitlab.com/jackson221/spacegame/](https://gitlab.com/jackson221/spacegame/)
 
 
 # About
